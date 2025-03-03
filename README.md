@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amresh6101" alt="amresh6101" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps related techs like Terraform,GitHub Actions,Shell Script,Ansible and ELK**
+- 🌱 I’m currently exploring **DevOps related tech like Terraform,GitHub Actions,Shell Script,Ansible and ELK**
 
-- 👯 I’m looking to collaborate on **Backend and Devops projects**
+- 👯 I’m looking to collaborate on **Backend and DevOps projects**
 
 - 📝 I write blog on medium [https://medium.com/@amreshranjan6101](https://medium.com/@amreshranjan6101)
 
