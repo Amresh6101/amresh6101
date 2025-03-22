@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amresh Ranjan</h1>
-<h3 align="center">A passionate Backend Developer and self learned DevOps engineer,Currently working as Jr Software Engineer at EPAM System(India).</h3>
+<h3 align="center">A passionate Backend Developer and self learned DevOps engineer,Currently working as Software Engineer(A1) at EPAM System(India).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amresh6101&label=Profile%20views&color=0e75b6&style=flat" alt="amresh6101" /> </p>
 
