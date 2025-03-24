@@ -9,7 +9,7 @@
 
 - 📝 I write blog on medium [https://medium.com/@amreshranjan6101](https://medium.com/@amreshranjan6101)
 
-- 💬 Ask me about **Java,Spring and Spring Boot.**
+- 💬 Ask me about **Java,Spring,Spring Boot,Terraform,Docker and K8S**
 
 - 📫 How to reach me **amreshranjan6101@gmail.com**
 
